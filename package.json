@@ -1,0 +1,37 @@
+{
+  "name": "react-ramda-rxjs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx poi index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xav1er/react-ramda-rxjs.git"
+  },
+  "dependencies": {
+    "ramda": "0.25.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "recompose": "0.27.0",
+    "rxjs": "5.5.10"
+  },
+  "devDependencies": {
+    "poi": "^9.3.10",
+    "babel-plugin-react-require": "^3.0.0",
+    "babel-preset-react-app": "^3.0.3"
+  },
+  "description": "React + Ramda + Rxjs examples",
+  "keywords": [
+    "React",
+    "Ramda",
+    "Rxjs"
+  ],
+  "author": "Ivan Shevchenko <shev4enko.ivan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xav1er/react-ramda-rxjs/issues"
+  },
+  "homepage": "https://github.com/xav1er/react-ramda-rxjs#readme",
+  "main": "index.js"
+}
